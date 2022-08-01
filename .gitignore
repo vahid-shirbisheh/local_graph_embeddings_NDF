@@ -3,4 +3,5 @@
 *.orig
 .ipynb_checkpoints/
 test/
+test*
 __pycache__/
