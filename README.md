@@ -1,7 +1,7 @@
 # Local Graph Embeddings Based on Neighbors Degree Frequency of Nodes
 ## By Vahid Shirbisheh
 
-This is the repository of python soure codes for the implementations of algorithms and examples of the article mentioned above. 
+This is the repository of python source codes for the implementations of algorithms and examples of the article mentioned above. 
 
 For routine computations on graphs (such as various centrality measures, PageRank, etc), we use the library NetworkX. 
 For data science and deep learning algorithms, we use pandas, numpy, matplotlib and pytorch. 
