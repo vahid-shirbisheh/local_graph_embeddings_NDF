@@ -33,6 +33,7 @@ from dihelpers import *
 ### Source codes of examples in Section 8 can be found in the following folder:
 ../directed_graphs/pagerank_section_8
 
+### An important update is coming soon!
 
 Important Notice:
 1. Not every method and function in classes MyGraph and MyDiGraph has been used inside the article!
